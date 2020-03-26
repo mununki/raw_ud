@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "keyword": "코로나 바이러스",
+      "queryCount": 10000
+    },
+    {
+      "keyword": "유재석",
+      "queryCount": 5000
+    },
+    {
+      "keyword": "조세호",
+      "queryCount": 2000
+    },
+    {
+      "keyword": "지하철",
+      "queryCount": 3000
+    }
+  ],
+  "updated": "2020-03-01T11:20:45.465Z"
+}

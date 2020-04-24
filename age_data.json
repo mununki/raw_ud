@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "도널드 트럼프",
+      "birthDate": "1946-06-14T00:00:00.000Z",
+      "image": "https://img.insight.co.kr/static/2019/05/03/700/8jh242p680k4qcoh7xwy.jpg"
+    },
+    {
+      "name": "문재인",
+      "birthDate": "1953-01-24T00:00:00.000Z",
+      "image": "https://img.huffingtonpost.com/asset/5de6146b21000066df34ecb8.jpeg"
+    },
+    {
+      "name": "이승환",
+      "birthDate": "1965-12-13T00:00:00.000Z",
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2019/10/14/AKR20191014161000005_01_i_P4.jpg"
+    },
+    {
+      "name": "태진아",
+      "birthDate": "1953-05-17T00:00:00.000Z",
+      "image": "http://thumb.mtstarnews.com/06/2019/11/2019110814523676537_2.jpg"
+    }
+  ],
+  "updated": "2020-04-15T05:08:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "name": "Donald Trump",
+      "birthDate": "1946-06-14T00:00:00.000Z",
+      "image": "https://www.unamwiki.org/w/images/7/79/%ED%8A%B8%EB%9F%BC%ED%94%84.jpg"
+    },
+    {
+      "name": "Albert Einstein",
+      "birthDate": "1879-03-14T00:00:00.000Z",
+      "image": "http://img-cdn.ddanzi.com/ddfile/201605-images/98139432.jpg"
+    },
+    {
+      "name": "Michael Jackson",
+      "birthDate": "1958-08-29T00:00:00.000Z",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F03%2Fdrake-removes-michael-jackson-song-dont-matter-to-me-uk-tour-setlist-00.jpg"
+    },
+    {
+      "name": "Madonna",
+      "birthDate": "1958-08-16T00:00:00.000Z",
+      "image": "https://happist.com/files/attach/images/530/354/540/936a190e39193a7e59f38c26065dad11.jpg"
+    },
+    {
+      "name": "Bill Gates",
+      "birthDate": "1955-10-28T00:00:00.000Z",
+      "image": "https://pds.joins.com/news/component/htmlphoto_mmdata/202004/10/decf6c26-5830-46e3-8c0e-414fec2f065f.jpg"
+    },
+    {
+      "name": "Warren Buffett",
+      "birthDate": "1930-08-30T00:00:00.000Z",
+      "image": "https://ppss.kr/wp-content/uploads/2020/01/01-53.jpg"
+    }
+  ],
+  "updated": "2020-04-15T05:08:00.000Z"
+}

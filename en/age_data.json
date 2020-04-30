@@ -29,6 +29,101 @@
       "name": "Warren Buffett",
       "birthDate": "1930-08-30T00:00:00.000Z",
       "image": "https://ppss.kr/wp-content/uploads/2020/01/01-53.jpg"
+    },
+    {
+      "name": "Weeknd",
+      "birthDate": "1990-02-16T00:00:00.000Z",
+      "image": "http://img.sportsworldi.com/content/image/2015/09/16/20150916004395_0.jpg"
+    },
+    {
+      "name": "Selena Gomez",
+      "birthDate": "1992-07-22T00:00:00.000Z",
+      "image": "https://img.huffingtonpost.com/asset/5d6fd6323b00007902ccdbba.jpeg"
+    },
+    {
+      "name": "Justin Bieber",
+      "birthDate": "1994-03-01T00:00:00.000Z",
+      "image": "https://file.mk.co.kr/meet/thefact/2020/01/image_readtop_2020_30727_1775253_0.jpg"
+    },
+    {
+      "name": "Ariana Grande",
+      "birthDate": "1993-06-26T00:00:00.000Z",
+      "image": "https://w.namu.la/s/722e4d4e5a6a998b1ec930f09318de006090226b96ab57a059d6c115f93cd1d66c78a1be5150507fb3f2dba46b25f8a45daa1ac5ff3b66d1a33685a0f1dbdc98cd277ebad16732be15199f30f1613002c255af6e89722b5f925eb08731400bad66120fae3a34062979ef689c36c8b315"
+    },
+    {
+      "name": "Taylor Swift",
+      "birthDate": "1989-12-13T00:00:00.000Z",
+      "image": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20190905000902074869ecba8d8b8617764132.jpg"
+    },
+    {
+      "name": "Miley Cyrus",
+      "birthDate": "1992-11-23T00:00:00.000Z",
+      "image": "https://jethros4u.com/images/miley-cyrus-on-her-transformation-its-called-puberty.jpg"
+    },
+    {
+      "name": "Kylie Jenner",
+      "birthDate": "1997-08-10T00:00:00.000Z",
+      "image": "http://www.seohaenews.net/data/photos/20190518/art_15570315345037_b62896.jpg"
+    },
+    {
+      "name": "Katy Perry",
+      "birthDate": "1984-10-25T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Katy_Perry_2019_%28cropped%29.jpg"
+    },
+    {
+      "name": "Kendall Jenner",
+      "birthDate": "1995-11-03T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kendall_Jenner_Cannes_2017.jpg/250px-Kendall_Jenner_Cannes_2017.jpg"
+    },
+    {
+      "name": "Shawn Mendes",
+      "birthDate": "1998-08-08T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shawn_Mendes_Glamour_May_2018.png"
+    },
+    {
+      "name": "Gigi Hadid",
+      "birthDate": "1995-04-23T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gigi_Hadid._2015.jpg/440px-Gigi_Hadid._2015.jpg"
+    },
+    {
+      "name": "Rihanna",
+      "birthDate": "1988-02-20T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/500px-Rihanna_Fenty_2018.png"
+    },
+    {
+      "name": "V",
+      "birthDate": "1995-12-30T00:00:00.000Z",
+      "image": "http://www.kndaily.co.kr/news/photo/201907/100079_83703_1520.jpg"
+    },
+    {
+      "name": "SUGA",
+      "birthDate": "1993-03-09T00:00:00.000Z",
+      "image": "https://image.chosun.com/sitedata/image/201903/09/2019030901160_0.jpg"
+    },
+    {
+      "name": "j-hope",
+      "birthDate": "1994-02-18T00:00:00.000Z",
+      "image": "http://www.honam.co.kr/lib/thumb.html?type=md&w=500&src=gisaimg/202002/10_610100.jpg"
+    },
+    {
+      "name": "Jung Kook",
+      "birthDate": "1997-09-01T00:00:00.000Z",
+      "image": "https://pds.joins.com/news/component/htmlphoto_mmdata/201911/04/36d2c750-b922-48e1-a8f8-d974eb5e244d.jpg"
+    },
+    {
+      "name": "Jin",
+      "birthDate": "1992-12-04T00:00:00.000Z",
+      "image": "https://t1.daumcdn.net/cfile/tistory/992C873C5A53395F2B"
+    },
+    {
+      "name": "Jimin",
+      "birthDate": "1995-10-13T00:00:00.000Z",
+      "image": "https://topclass.chosun.com/news_img/1901/1901_008_1.jpg"
+    },
+    {
+      "name": "RM",
+      "birthDate": "1994-09-12T00:00:00.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RM_at_%22Map_of_the_Soul_-_Persona%22_global_press_conference%2C_17_April_2019.jpg"
     }
   ],
   "updated": "2020-04-15T05:08:00.000Z"
